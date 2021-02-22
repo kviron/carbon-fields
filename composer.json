@@ -1,5 +1,5 @@
 {
-    "name": "htmlburger/carbon-fields-plugin",
+    "name": "kviron/carbon-fields",
     "description": "WordPress plugin loader for Carbon Fields.",
     "license": "GPL-2.0",
     "type": "wordpress-plugin",
